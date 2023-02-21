@@ -222,6 +222,9 @@ nav {
   align-items: center;
 }
 .about-me__img {
+  width: 100%;
+  transition: all 500ms ease;
+  padding: 25px 16px;
   /* width: 110%; */
   /* height: 75%; */
   animation: fade-in 1200ms 800ms backwards;
