@@ -88,7 +88,7 @@ section:nth-child(even) {
 }
 
 .section__title {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 /* NAVIGATION BAR */
@@ -357,7 +357,7 @@ nav {
 
 .project__description {
   position: absolute;
-  top: 50%;
+  top: 55%;
   left: 90px;
   transform: translateY(100%);
   max-width: 550px;
@@ -367,7 +367,7 @@ nav {
 }
 
 .project__description--title {
-  font-size: 40px;
+  font-size: 35px;
 }
 
 .project__description--para {
