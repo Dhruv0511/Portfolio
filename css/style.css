@@ -161,6 +161,7 @@ nav {
   border-radius: 50%;
   overflow: hidden;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.16);
+  margin-top: 28px;
   margin-bottom: 28px;
   animation: animate-profile-picture 800ms 200ms backwards;
 }
@@ -178,11 +179,11 @@ nav {
 }
 
 .about-me__picture {
-  width: 30%;
+  width: 40%;
 
   /* Improving my own picture */
-  transform: scale(3);
-  padding-top: 10px;
+  transform: scale(4);
+  padding-top: 50px;
 }
 
 .about-me__info--title {
